@@ -23,4 +23,4 @@ Limitations: 1.Limited Dataset Size : The Flickr8K dataset contains approximatel
 
 Future Scope: 1.Use Larger and More Diverse Datasets : Our future work can use larger datasets, such as Flickr30k or MS COCO, containing more images and captions. A more diverse dataset can help the model learn a wider range of objects, activities, backgrounds, and real-world situations. 2.Improve CNN-Based Feature Extraction : More advanced image encoders, such as EfficientNet, ResNet, or Vision Transformer (ViT), can be explored to extract richer visual features. Better feature extraction may help the model recognize objects and understand complex scenes more effectively.
 
-Team Members: Pavaki Maithili: MT/AI/10020/26 Rishika Ranjan: MT/AI/10021/26
+Team Members: Pavaki Maithili: MT/AI/10020/26, Rishika Ranjan: MT/AI/10021/26
